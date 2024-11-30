@@ -6,3 +6,5 @@ To convert the **.py** file to **Notebook Jupyter**, which was the original form
 1. Install **jupytext** if you don't have it: ```pip install jupytext```
 2. Convert the **.py** file to **.ipynb**: ```jupytext --to notebook your_script.py```
 3. Open the **.ipynb** file in Jupyter Notebook or Jupyter Lab
+
+Author: tcheffert©
