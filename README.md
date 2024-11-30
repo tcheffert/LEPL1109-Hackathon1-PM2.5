@@ -1,4 +1,4 @@
-# Hackaton 1 : 3 November 2024 📅​
+# Hackaton 1 : November 3 2024 📅​
 
 Here's **Hackathon 1** for the *LEPL1109* course (3rd year bachelor course in Civil Engineering & Computer Science in UCL)! The aim was to analyze emission of *PM2.5* fine particles in **Shanghai** and **Beijing**, as measured by US embassy/offices and to highlight the key points 🇨🇳 ​🇺🇸​.
 
